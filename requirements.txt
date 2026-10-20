@@ -1,0 +1,6 @@
+1.pandas library
+2.numpy library 
+3.if these library not there then :
+run these below commands in your vs code terminal.
+(pip install pandas) to download pandas
+(pip install numpy) to download numpy 
